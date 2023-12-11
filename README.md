@@ -25,9 +25,9 @@ The primary objective of this project is to create an efficient and reliable met
 - **Optimizer**: The model was optimized using the Stochastic Gradient Descent (SGD) optimizer, a popular choice for training deep neural networks due to its effectiveness in converging on optimal solutions.
 
 ### Results
-- **Training Image 1**: ![Training Image](data/example/Train-sample1.jpeg)
-- **Training Image 2**: ![Training Image](data/example/Train-sample2.jpeg)
-- **Testing Image**: ![Test Image](data/example/Test-sample.jpeg)
+- **Training Image 1**: ![Training Image](data/example/Train-sample1.jpg)
+- **Training Image 2**: ![Training Image](data/example/Train-sample2.jpg)
+- **Testing Image**: ![Test Image](data/example/Test-sample.jpg)
 
 ## Installation and Usage
 
