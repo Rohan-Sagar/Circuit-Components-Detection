@@ -1,33 +1,471 @@
 label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
-Resistor,269,399,41,47,11M_1-2W_(8).jpg,700,700
-Wire,297,460,24,43,11M_1-2W_(8).jpg,700,700
-Wire,269,358,17,30,11M_1-2W_(8).jpg,700,700
-Brown,278,402,12,5,11M_1-2W_(8).jpg,700,700
-Brown,280,410,12,5,11M_1-2W_(8).jpg,700,700
-Black,283,416,11,4,11M_1-2W_(8).jpg,700,700
-Green,285,425,11,3,11M_1-2W_(8).jpg,700,700
-Brown,286,432,16,5,11M_1-2W_(8).jpg,700,700
-Resistor,316,338,53,32,11M_1-2W_(9).jpg,700,700
-Wire,265,343,41,10,11M_1-2W_(9).jpg,700,700
-Wire,375,358,27,15,11M_1-2W_(9).jpg,700,700
-Brown,323,344,4,12,11M_1-2W_(9).jpg,700,700
-Green,331,348,5,9,11M_1-2W_(9).jpg,700,700
-Black,340,351,5,7,11M_1-2W_(9).jpg,700,700
-Brown,347,351,6,9,11M_1-2W_(9).jpg,700,700
-Brown,355,352,7,11,11M_1-2W_(9).jpg,700,700
-Resistor,168,480,132,288,IMG_5124.JPG,994,1160
-Wire,237,784,27,114,IMG_5124.JPG,994,1160
-Wire,189,344,40,119,IMG_5124.JPG,994,1160
-Brown,203,700,79,14,IMG_5124.JPG,994,1160
-Gold,203,631,67,14,IMG_5124.JPG,994,1160
-Black,200,585,66,14,IMG_5124.JPG,994,1160
-Red,193,529,69,10,IMG_5124.JPG,994,1160
-Red,192,496,58,8,IMG_5124.JPG,994,1160
-Resistor,770,561,100,283,IMG_5124.JPG,994,1160
-Wire,791,410,51,124,IMG_5124.JPG,994,1160
-Wire,797,882,26,133,IMG_5124.JPG,994,1160
-Red,791,588,71,19,IMG_5124.JPG,994,1160
-Black,791,635,59,18,IMG_5124.JPG,994,1160
-Black,793,680,56,14,IMG_5124.JPG,994,1160
-Orange,786,721,64,14,IMG_5124.JPG,994,1160
-Black,785,774,69,13,IMG_5124.JPG,994,1160
+Resistor Area,16,21,77,647,img1.jpg,410,705
+Resistor Body,16,276,76,183,img1.jpg,410,705
+Color,30,294,49,8,img1.jpg,410,705
+Color,34,322,39,6,img1.jpg,410,705
+Color,31,349,51,8,img1.jpg,410,705
+Color,30,376,45,9,img1.jpg,410,705
+Color,28,403,46,8,img1.jpg,410,705
+Resistor Area,144,21,93,645,img1.jpg,410,705
+Resistor Body,156,270,73,187,img1.jpg,410,705
+Resistor Area,289,23,93,643,img1.jpg,410,705
+Resistor Body,294,270,77,185,img1.jpg,410,705
+Color,170,295,45,5,img1.jpg,410,705
+Color,170,322,43,7,img1.jpg,410,705
+Color,172,351,44,7,img1.jpg,410,705
+Color,168,376,45,9,img1.jpg,410,705
+Color,168,403,46,9,img1.jpg,410,705
+Color,314,293,41,6,img1.jpg,410,705
+Color,314,321,42,9,img1.jpg,410,705
+Color,313,349,43,8,img1.jpg,410,705
+Color,310,376,42,8,img1.jpg,410,705
+Color,310,403,43,9,img1.jpg,410,705
+Resistor Body,12,321,119,403,img2.jpg,435,929
+Resistor Body,302,317,118,398,img2.jpg,435,929
+Resistor Body,153,320,126,372,img2.jpg,435,929
+Resistor Area,10,26,120,878,img2.jpg,435,929
+Resistor Area,152,26,125,878,img2.jpg,435,929
+Resistor Area,301,26,121,880,img2.jpg,435,929
+Color,27,344,88,15,img2.jpg,435,929
+Color,29,438,87,17,img2.jpg,435,929
+Color,30,488,83,16,img2.jpg,435,929
+Color,29,543,85,16,img2.jpg,435,929
+Color,27,598,90,20,img2.jpg,435,929
+Color,178,346,72,10,img2.jpg,435,929
+Color,177,438,75,15,img2.jpg,435,929
+Color,178,490,77,13,img2.jpg,435,929
+Color,179,543,75,15,img2.jpg,435,929
+Color,177,602,78,16,img2.jpg,435,929
+Color,326,600,74,17,img2.jpg,435,929
+Color,333,546,58,14,img2.jpg,435,929
+Color,332,491,58,12,img2.jpg,435,929
+Color,335,441,62,14,img2.jpg,435,929
+Color,324,345,80,13,img2.jpg,435,929
+Resistor Body,308,286,111,346,img3.jpg,438,831
+Resistor Body,18,286,112,344,img3.jpg,438,831
+Resistor Body,164,283,109,350,img3.jpg,438,831
+Resistor Area,14,18,123,806,img3.jpg,438,831
+Resistor Area,163,18,110,808,img3.jpg,438,831
+Resistor Area,304,17,115,809,img3.jpg,438,831
+Color,33,311,80,12,img3.jpg,438,831
+Color,34,399,76,13,img3.jpg,438,831
+Color,35,443,74,15,img3.jpg,438,831
+Color,32,494,82,15,img3.jpg,438,831
+Color,29,549,78,12,img3.jpg,438,831
+Color,181,314,74,9,img3.jpg,438,831
+Color,185,400,66,12,img3.jpg,438,831
+Color,186,445,64,11,img3.jpg,438,831
+Color,187,496,63,10,img3.jpg,438,831
+Color,186,548,68,13,img3.jpg,438,831
+Color,332,312,68,11,img3.jpg,438,831
+Color,331,400,66,13,img3.jpg,438,831
+Color,332,444,65,13,img3.jpg,438,831
+Color,332,496,71,12,img3.jpg,438,831
+Color,332,546,67,14,img3.jpg,438,831
+Resistor Body,309,319,118,371,img4.jpg,438,903
+Resistor Body,15,316,119,370,img4.jpg,438,903
+Resistor Body,164,319,117,369,img4.jpg,438,903
+Resistor Area,14,29,123,862,img4.jpg,438,903
+Resistor Area,161,33,119,858,img4.jpg,438,903
+Resistor Area,304,30,126,860,img4.jpg,438,903
+Color,38,348,69,9,img4.jpg,438,903
+Color,39,440,74,13,img4.jpg,438,903
+Color,43,488,67,12,img4.jpg,438,903
+Color,41,541,71,13,img4.jpg,438,903
+Color,39,595,70,13,img4.jpg,438,903
+Color,190,345,67,13,img4.jpg,438,903
+Color,192,438,63,13,img4.jpg,438,903
+Color,194,487,59,13,img4.jpg,438,903
+Color,193,540,63,13,img4.jpg,438,903
+Color,191,596,68,15,img4.jpg,438,903
+Color,339,347,63,11,img4.jpg,438,903
+Color,339,440,59,11,img4.jpg,438,903
+Color,339,487,63,13,img4.jpg,438,903
+Color,337,541,70,12,img4.jpg,438,903
+Color,332,596,73,13,img4.jpg,438,903
+Resistor Body,304,305,116,377,img5.jpg,434,892
+Resistor Body,13,310,116,376,img5.jpg,434,892
+Resistor Body,159,313,113,362,img5.jpg,434,892
+Resistor Area,11,20,119,860,img5.jpg,434,892
+Resistor Area,158,23,114,856,img5.jpg,434,892
+Resistor Area,299,17,122,864,img5.jpg,434,892
+Color,33,334,69,12,img5.jpg,434,892
+Color,37,427,64,13,img5.jpg,434,892
+Color,36,474,68,13,img5.jpg,434,892
+Color,38,530,68,12,img5.jpg,434,892
+Color,37,583,71,15,img5.jpg,434,892
+Color,182,334,72,11,img5.jpg,434,892
+Color,186,427,67,12,img5.jpg,434,892
+Color,182,476,69,11,img5.jpg,434,892
+Color,181,531,75,10,img5.jpg,434,892
+Color,177,583,82,13,img5.jpg,434,892
+Color,327,333,71,13,img5.jpg,434,892
+Color,326,427,71,11,img5.jpg,434,892
+Color,326,475,72,11,img5.jpg,434,892
+Color,328,527,71,14,img5.jpg,434,892
+Color,329,581,69,16,img5.jpg,434,892
+Resistor Body,298,306,115,364,img6.jpg,425,879
+Resistor Body,8,307,118,364,img6.jpg,425,879
+Resistor Body,154,295,117,373,img6.jpg,425,879
+Resistor Area,7,19,119,855,img6.jpg,425,879
+Resistor Area,149,17,123,855,img6.jpg,425,879
+Resistor Area,294,16,121,855,img6.jpg,425,879
+Color,25,334,83,10,img6.jpg,425,879
+Color,33,427,70,11,img6.jpg,425,879
+Color,33,473,70,12,img6.jpg,425,879
+Color,31,527,68,9,img6.jpg,425,879
+Color,29,579,68,14,img6.jpg,425,879
+Color,176,331,70,10,img6.jpg,425,879
+Color,182,424,64,13,img6.jpg,425,879
+Color,179,472,72,14,img6.jpg,425,879
+Color,180,524,68,14,img6.jpg,425,879
+Color,173,579,77,16,img6.jpg,425,879
+Color,326,334,64,10,img6.jpg,425,879
+Color,324,425,65,12,img6.jpg,425,879
+Color,325,473,63,11,img6.jpg,425,879
+Color,327,524,66,14,img6.jpg,425,879
+Color,322,577,70,17,img6.jpg,425,879
+Resistor Body,309,310,115,371,img7.jpg,437,896
+Resistor Body,17,308,116,372,img7.jpg,437,896
+Resistor Body,166,308,112,368,img7.jpg,437,896
+Resistor Area,14,26,119,859,img7.jpg,437,896
+Resistor Area,161,20,114,867,img7.jpg,437,896
+Resistor Area,303,14,122,872,img7.jpg,437,896
+Color,33,334,77,11,img7.jpg,437,896
+Color,36,430,71,9,img7.jpg,437,896
+Color,37,477,72,12,img7.jpg,437,896
+Color,37,533,71,11,img7.jpg,437,896
+Color,37,586,74,15,img7.jpg,437,896
+Color,190,334,61,11,img7.jpg,437,896
+Color,189,430,66,10,img7.jpg,437,896
+Color,187,477,67,11,img7.jpg,437,896
+Color,185,533,71,12,img7.jpg,437,896
+Color,181,585,80,18,img7.jpg,437,896
+Color,337,333,64,12,img7.jpg,437,896
+Color,337,427,58,15,img7.jpg,437,896
+Color,337,476,62,12,img7.jpg,437,896
+Color,338,528,60,14,img7.jpg,437,896
+Color,324,586,81,16,img7.jpg,437,896
+Resistor Body,19,311,120,374,img8.jpg,442,906
+Resistor Body,308,305,122,381,img8.jpg,442,906
+Resistor Body,157,306,131,379,img8.jpg,442,906
+Resistor Area,18,132,120,614,img8.jpg,442,906
+Resistor Area,149,133,143,616,img8.jpg,442,906
+Resistor Area,306,128,123,730,img8.jpg,442,906
+Color,39,332,71,11,img8.jpg,442,906
+Color,40,430,71,11,img8.jpg,442,906
+Color,44,478,71,13,img8.jpg,442,906
+Color,43,532,76,14,img8.jpg,442,906
+Color,38,586,80,19,img8.jpg,442,906
+Color,183,330,78,14,img8.jpg,442,906
+Color,186,427,79,15,img8.jpg,442,906
+Color,187,477,74,13,img8.jpg,442,906
+Color,187,530,80,18,img8.jpg,442,906
+Color,187,589,78,13,img8.jpg,442,906
+Color,336,331,66,14,img8.jpg,442,906
+Color,334,428,73,13,img8.jpg,442,906
+Color,332,478,73,12,img8.jpg,442,906
+Color,333,533,79,14,img8.jpg,442,906
+Color,330,589,79,17,img8.jpg,442,906
+Resistor Body,11,301,113,358,img9.jpg,439,867
+Resistor Body,302,297,114,364,img9.jpg,439,867
+Resistor Body,160,300,111,363,img9.jpg,439,867
+Resistor Area,6,16,116,845,img9.jpg,439,867
+Resistor Area,152,14,118,839,img9.jpg,439,867
+Resistor Area,293,14,130,843,img9.jpg,439,867
+Color,29,325,78,11,img9.jpg,439,867
+Color,34,417,71,13,img9.jpg,439,867
+Color,34,463,71,13,img9.jpg,439,867
+Color,35,516,69,13,img9.jpg,439,867
+Color,28,566,81,18,img9.jpg,439,867
+Color,179,324,71,13,img9.jpg,439,867
+Color,184,416,65,12,img9.jpg,439,867
+Color,181,462,71,13,img9.jpg,439,867
+Color,179,516,72,13,img9.jpg,439,867
+Color,180,567,73,16,img9.jpg,439,867
+Color,323,326,78,10,img9.jpg,439,867
+Color,323,419,71,4,img9.jpg,439,867
+Color,314,468,88,5,img9.jpg,439,867
+Color,313,518,88,7,img9.jpg,439,867
+Color,312,571,89,9,img9.jpg,439,867
+Resistor Area,565,1538,603,1400,IMG_5270.JPG,3024,4032
+Resistor Body,658,2636,335,272,IMG_5270.JPG,3024,4032
+Color,739,2671,14,48,IMG_5270.JPG,3024,4032
+Color,775,2724,36,52,IMG_5270.JPG,3024,4032
+Color,821,2748,32,54,IMG_5270.JPG,3024,4032
+Color,1302,2976,2,2,IMG_5270.JPG,3024,4032
+Color,859,2776,32,48,IMG_5270.JPG,3024,4032
+Color,907,2802,32,50,IMG_5270.JPG,3024,4032
+Resistor Area,939,477,509,856,IMG_5270.JPG,3024,4032
+Resistor Body,981,548,203,301,IMG_5270.JPG,3024,4032
+Color,1088,592,50,34,IMG_5270.JPG,3024,4032
+Color,1080,646,48,28,IMG_5270.JPG,3024,4032
+Color,1051,688,54,24,IMG_5270.JPG,3024,4032
+Color,1033,730,58,24,IMG_5270.JPG,3024,4032
+Color,1003,764,54,40,IMG_5270.JPG,3024,4032
+Color,680,1821,1525,1385,IMG_5271.JPG,3024,4032
+Color,923,1993,259,162,IMG_5271.JPG,3024,4032
+Color,948,2087,31,34,IMG_5271.JPG,3024,4032
+Color,999,2078,19,31,IMG_5271.JPG,3024,4032
+Color,1031,2056,29,44,IMG_5271.JPG,3024,4032
+Color,1071,2043,24,31,IMG_5271.JPG,3024,4032
+Color,1121,2015,24,46,IMG_5271.JPG,3024,4032
+Resistor Area,406,50,910,793,IMG_5272.JPG,3024,4032
+Color,763,472,39,48,IMG_5272.JPG,3024,4032
+Color,806,449,41,54,IMG_5272.JPG,3024,4032
+Color,864,426,21,58,IMG_5272.JPG,3024,4032
+Color,876,383,41,39,IMG_5272.JPG,3024,4032
+Color,928,343,41,48,IMG_5272.JPG,3024,4032
+Resistor Area,723,2687,1102,480,IMG_5272.JPG,3024,4032
+Resistor Body,1166,2987,370,163,IMG_5272.JPG,3024,4032
+Color,1261,3045,46,72,IMG_5272.JPG,3024,4032
+Color,1321,3045,21,62,IMG_5272.JPG,3024,4032
+Color,1363,3032,27,64,IMG_5272.JPG,3024,4032
+Color,1414,3030,12,79,IMG_5272.JPG,3024,4032
+Color,1460,3018,23,85,IMG_5272.JPG,3024,4032
+Resistor Body,719,331,281,223,IMG_5272.JPG,3024,4032
+Resistor Area,417,1374,670,1441,IMG_5273.JPG,3024,4032
+Resistor Body,685,1988,223,391,IMG_5273.JPG,3024,4032
+Color,727,2059,96,15,IMG_5273.JPG,3024,4032
+Color,749,2128,71,15,IMG_5273.JPG,3024,4032
+Color,754,2178,65,12,IMG_5273.JPG,3024,4032
+Color,754,2226,87,12,IMG_5273.JPG,3024,4032
+Color,749,2276,102,15,IMG_5273.JPG,3024,4032
+Resistor Area,730,1150,799,603,IMG_5274.JPG,3024,4032
+Resistor Body,1179,1214,250,240,IMG_5274.JPG,3024,4032
+Color,1228,1271,39,35,IMG_5274.JPG,3024,4032
+Color,1247,1296,40,37,IMG_5274.JPG,3024,4032
+Color,1290,1317,27,23,IMG_5274.JPG,3024,4032
+Color,1309,1334,33,35,IMG_5274.JPG,3024,4032
+Color,1346,1367,35,33,IMG_5274.JPG,3024,4032
+Resistor Area,887,2848,547,625,IMG_5276.JPG,3024,4032
+Resistor Body,1196,2889,160,136,IMG_5276.JPG,3024,4032
+Color,1220,2915,13,30,IMG_5276.JPG,3024,4032
+Color,1241,2933,16,32,IMG_5276.JPG,3024,4032
+Color,1263,2947,20,21,IMG_5276.JPG,3024,4032
+Color,1284,2958,20,23,IMG_5276.JPG,3024,4032
+Color,1300,2971,24,23,IMG_5276.JPG,3024,4032
+Resistor Area,836,2463,1212,396,IMG_5277.JPG,3024,4032
+Resistor Body,1243,2480,160,82,IMG_5277.JPG,3024,4032
+Color,1260,2509,17,36,IMG_5277.JPG,3024,4032
+Color,1293,2507,17,36,IMG_5277.JPG,3024,4032
+Color,1317,2504,10,36,IMG_5277.JPG,3024,4032
+Color,1343,2499,7,39,IMG_5277.JPG,3024,4032
+Color,1367,2497,21,36,IMG_5277.JPG,3024,4032
+Resistor Area,719,2044,894,246,IMG_5278.JPG,3024,4032
+Resistor Body,1161,2058,235,84,IMG_5278.JPG,3024,4032
+Color,1201,2075,26,53,IMG_5278.JPG,3024,4032
+Color,1248,2073,16,47,IMG_5278.JPG,3024,4032
+Color,1277,2078,19,49,IMG_5278.JPG,3024,4032
+Color,1311,2072,16,47,IMG_5278.JPG,3024,4032
+Color,1343,2068,16,52,IMG_5278.JPG,3024,4032
+Resistor Area,910,1895,459,312,IMG_5279.JPG,3024,4032
+Resistor Body,1110,1913,178,103,IMG_5279.JPG,3024,4032
+Color,1131,1930,19,16,IMG_5279.JPG,3024,4032
+Color,1161,1933,10,41,IMG_5279.JPG,3024,4032
+Color,1178,1940,24,26,IMG_5279.JPG,3024,4032
+Color,1202,1953,15,28,IMG_5279.JPG,3024,4032
+Color,1222,1953,15,32,IMG_5279.JPG,3024,4032
+Resistor Area,1022,2695,1083,403,IMG_5279.JPG,3024,4032
+Resistor Body,1480,2951,156,112,IMG_5279.JPG,3024,4032
+Color,1495,2967,14,44,IMG_5279.JPG,3024,4032
+Color,1517,2980,16,36,IMG_5279.JPG,3024,4032
+Color,1539,2987,23,39,IMG_5279.JPG,3024,4032
+Color,1563,2990,20,29,IMG_5279.JPG,3024,4032
+Color,1589,2997,26,36,IMG_5279.JPG,3024,4032
+Resistor Area,1439,1284,928,347,IMG_5279.JPG,3024,4032
+Resistor Body,1764,1495,176,122,IMG_5279.JPG,3024,4032
+Color,1782,1512,32,40,IMG_5279.JPG,3024,4032
+Color,1822,1531,21,29,IMG_5279.JPG,3024,4032
+Color,1847,1542,14,30,IMG_5279.JPG,3024,4032
+Color,1868,1544,23,33,IMG_5279.JPG,3024,4032
+Color,1891,1552,27,34,IMG_5279.JPG,3024,4032
+Resistor Area,16,21,77,647,img1_w.jpg,410,705
+Resistor Body,16,276,76,183,img1_w.jpg,410,705
+Color,30,294,49,8,img1_w.jpg,410,705
+Color,34,322,39,6,img1_w.jpg,410,705
+Color,31,349,51,8,img1_w.jpg,410,705
+Color,30,376,45,9,img1_w.jpg,410,705
+Color,28,403,46,8,img1_w.jpg,410,705
+Resistor Area,144,21,93,645,img1_w.jpg,410,705
+Resistor Body,156,270,73,187,img1_w.jpg,410,705
+Resistor Area,289,23,93,643,img1_w.jpg,410,705
+Resistor Body,294,270,77,185,img1_w.jpg,410,705
+Color,170,295,45,5,img1_w.jpg,410,705
+Color,170,322,43,7,img1_w.jpg,410,705
+Color,172,351,44,7,img1_w.jpg,410,705
+Color,168,376,45,9,img1_w.jpg,410,705
+Color,168,403,46,9,img1_w.jpg,410,705
+Color,314,293,41,6,img1_w.jpg,410,705
+Color,314,321,42,9,img1_w.jpg,410,705
+Color,313,349,43,8,img1_w.jpg,410,705
+Color,310,376,42,8,img1_w.jpg,410,705
+Color,310,403,43,9,img1_w.jpg,410,705
+Resistor Body,12,321,119,403,img2_w.jpg,435,929
+Resistor Body,302,317,118,398,img2_w.jpg,435,929
+Resistor Body,153,320,126,372,img2_w.jpg,435,929
+Resistor Area,10,26,120,878,img2_w.jpg,435,929
+Resistor Area,152,26,125,878,img2_w.jpg,435,929
+Resistor Area,301,26,121,880,img2_w.jpg,435,929
+Color,27,344,88,15,img2_w.jpg,435,929
+Color,29,438,87,17,img2_w.jpg,435,929
+Color,30,488,83,16,img2_w.jpg,435,929
+Color,29,543,85,16,img2_w.jpg,435,929
+Color,27,598,90,20,img2_w.jpg,435,929
+Color,178,346,72,10,img2_w.jpg,435,929
+Color,177,438,75,15,img2_w.jpg,435,929
+Color,178,490,77,13,img2_w.jpg,435,929
+Color,179,543,75,15,img2_w.jpg,435,929
+Color,177,602,78,16,img2_w.jpg,435,929
+Color,326,600,74,17,img2_w.jpg,435,929
+Color,333,546,58,14,img2_w.jpg,435,929
+Color,332,491,58,12,img2_w.jpg,435,929
+Color,335,441,62,14,img2_w.jpg,435,929
+Color,324,345,80,13,img2_w.jpg,435,929
+Resistor Body,308,286,111,346,img3_w.jpg,438,831
+Resistor Body,18,286,112,344,img3_w.jpg,438,831
+Resistor Body,164,283,109,350,img3_w.jpg,438,831
+Resistor Area,14,18,123,806,img3_w.jpg,438,831
+Resistor Area,163,18,110,808,img3_w.jpg,438,831
+Resistor Area,304,17,115,809,img3_w.jpg,438,831
+Color,33,311,80,12,img3_w.jpg,438,831
+Color,34,399,76,13,img3_w.jpg,438,831
+Color,35,443,74,15,img3_w.jpg,438,831
+Color,32,494,82,15,img3_w.jpg,438,831
+Color,29,549,78,12,img3_w.jpg,438,831
+Color,181,314,74,9,img3_w.jpg,438,831
+Color,185,400,66,12,img3_w.jpg,438,831
+Color,186,445,64,11,img3_w.jpg,438,831
+Color,187,496,63,10,img3_w.jpg,438,831
+Color,186,548,68,13,img3_w.jpg,438,831
+Color,332,312,68,11,img3_w.jpg,438,831
+Color,331,400,66,13,img3_w.jpg,438,831
+Color,332,444,65,13,img3_w.jpg,438,831
+Color,332,496,71,12,img3_w.jpg,438,831
+Color,332,546,67,14,img3_w.jpg,438,831
+Resistor Body,309,319,118,371,img4_w.jpg,438,903
+Resistor Body,15,316,119,370,img4_w.jpg,438,903
+Resistor Body,164,319,117,369,img4_w.jpg,438,903
+Resistor Area,14,29,123,862,img4_w.jpg,438,903
+Resistor Area,161,33,119,858,img4_w.jpg,438,903
+Resistor Area,304,30,126,860,img4_w.jpg,438,903
+Color,38,348,69,9,img4_w.jpg,438,903
+Color,39,440,74,13,img4_w.jpg,438,903
+Color,43,488,67,12,img4_w.jpg,438,903
+Color,41,541,71,13,img4_w.jpg,438,903
+Color,39,595,70,13,img4_w.jpg,438,903
+Color,190,345,67,13,img4_w.jpg,438,903
+Color,192,438,63,13,img4_w.jpg,438,903
+Color,194,487,59,13,img4_w.jpg,438,903
+Color,193,540,63,13,img4_w.jpg,438,903
+Color,191,596,68,15,img4_w.jpg,438,903
+Color,339,347,63,11,img4_w.jpg,438,903
+Color,339,440,59,11,img4_w.jpg,438,903
+Color,339,487,63,13,img4_w.jpg,438,903
+Color,337,541,70,12,img4_w.jpg,438,903
+Color,332,596,73,13,img4_w.jpg,438,903
+Resistor Body,304,305,116,377,img5_w.jpg,434,892
+Resistor Body,13,310,116,376,img5_w.jpg,434,892
+Resistor Body,159,313,113,362,img5_w.jpg,434,892
+Resistor Area,11,20,119,860,img5_w.jpg,434,892
+Resistor Area,158,23,114,856,img5_w.jpg,434,892
+Resistor Area,299,17,122,864,img5_w.jpg,434,892
+Color,33,334,69,12,img5_w.jpg,434,892
+Color,37,427,64,13,img5_w.jpg,434,892
+Color,36,474,68,13,img5_w.jpg,434,892
+Color,38,530,68,12,img5_w.jpg,434,892
+Color,37,583,71,15,img5_w.jpg,434,892
+Color,182,334,72,11,img5_w.jpg,434,892
+Color,186,427,67,12,img5_w.jpg,434,892
+Color,182,476,69,11,img5_w.jpg,434,892
+Color,181,531,75,10,img5_w.jpg,434,892
+Color,177,583,82,13,img5_w.jpg,434,892
+Color,327,333,71,13,img5_w.jpg,434,892
+Color,326,427,71,11,img5_w.jpg,434,892
+Color,326,475,72,11,img5_w.jpg,434,892
+Color,328,527,71,14,img5_w.jpg,434,892
+Color,329,581,69,16,img5_w.jpg,434,892
+Resistor Body,298,306,115,364,img6_w.jpg,425,879
+Resistor Body,8,307,118,364,img6_w.jpg,425,879
+Resistor Body,154,295,117,373,img6_w.jpg,425,879
+Resistor Area,7,19,119,855,img6_w.jpg,425,879
+Resistor Area,149,17,123,855,img6_w.jpg,425,879
+Resistor Area,294,16,121,855,img6_w.jpg,425,879
+Color,25,334,83,10,img6_w.jpg,425,879
+Color,33,427,70,11,img6_w.jpg,425,879
+Color,33,473,70,12,img6_w.jpg,425,879
+Color,31,527,68,9,img6_w.jpg,425,879
+Color,29,579,68,14,img6_w.jpg,425,879
+Color,176,331,70,10,img6_w.jpg,425,879
+Color,182,424,64,13,img6_w.jpg,425,879
+Color,179,472,72,14,img6_w.jpg,425,879
+Color,180,524,68,14,img6_w.jpg,425,879
+Color,173,579,77,16,img6_w.jpg,425,879
+Color,326,334,64,10,img6_w.jpg,425,879
+Color,324,425,65,12,img6_w.jpg,425,879
+Color,325,473,63,11,img6_w.jpg,425,879
+Color,327,524,66,14,img6_w.jpg,425,879
+Color,322,577,70,17,img6_w.jpg,425,879
+Resistor Body,309,310,115,371,img7_w.jpg,437,896
+Resistor Body,17,308,116,372,img7_w.jpg,437,896
+Resistor Body,166,308,112,368,img7_w.jpg,437,896
+Resistor Area,14,26,119,859,img7_w.jpg,437,896
+Resistor Area,161,20,114,867,img7_w.jpg,437,896
+Resistor Area,303,14,122,872,img7_w.jpg,437,896
+Color,33,334,77,11,img7_w.jpg,437,896
+Color,36,430,71,9,img7_w.jpg,437,896
+Color,37,477,72,12,img7_w.jpg,437,896
+Color,37,533,71,11,img7_w.jpg,437,896
+Color,37,586,74,15,img7_w.jpg,437,896
+Color,190,334,61,11,img7_w.jpg,437,896
+Color,189,430,66,10,img7_w.jpg,437,896
+Color,187,477,67,11,img7_w.jpg,437,896
+Color,185,533,71,12,img7_w.jpg,437,896
+Color,181,585,80,18,img7_w.jpg,437,896
+Color,337,333,64,12,img7_w.jpg,437,896
+Color,337,427,58,15,img7_w.jpg,437,896
+Color,337,476,62,12,img7_w.jpg,437,896
+Color,338,528,60,14,img7_w.jpg,437,896
+Color,324,586,81,16,img7_w.jpg,437,896
+Resistor Body,19,311,120,374,img8_w.jpg,442,906
+Resistor Body,308,305,122,381,img8_w.jpg,442,906
+Resistor Body,157,306,131,379,img8_w.jpg,442,906
+Resistor Area,18,132,120,614,img8_w.jpg,442,906
+Resistor Area,149,133,143,616,img8_w.jpg,442,906
+Resistor Area,306,128,123,730,img8_w.jpg,442,906
+Color,39,332,71,11,img8_w.jpg,442,906
+Color,40,430,71,11,img8_w.jpg,442,906
+Color,44,478,71,13,img8_w.jpg,442,906
+Color,43,532,76,14,img8_w.jpg,442,906
+Color,38,586,80,19,img8_w.jpg,442,906
+Color,183,330,78,14,img8_w.jpg,442,906
+Color,186,427,79,15,img8_w.jpg,442,906
+Color,187,477,74,13,img8_w.jpg,442,906
+Color,187,530,80,18,img8_w.jpg,442,906
+Color,187,589,78,13,img8_w.jpg,442,906
+Color,336,331,66,14,img8_w.jpg,442,906
+Color,334,428,73,13,img8_w.jpg,442,906
+Color,332,478,73,12,img8_w.jpg,442,906
+Color,333,533,79,14,img8_w.jpg,442,906
+Color,330,589,79,17,img8_w.jpg,442,906
+Resistor Body,11,301,113,358,img9_w.jpg,439,867
+Resistor Body,302,297,114,364,img9_w.jpg,439,867
+Resistor Body,160,300,111,363,img9_w.jpg,439,867
+Resistor Area,6,16,116,845,img9_w.jpg,439,867
+Resistor Area,152,14,118,839,img9_w.jpg,439,867
+Resistor Area,293,14,130,843,img9_w.jpg,439,867
+Color,29,325,78,11,img9_w.jpg,439,867
+Color,34,417,71,13,img9_w.jpg,439,867
+Color,34,463,71,13,img9_w.jpg,439,867
+Color,35,516,69,13,img9_w.jpg,439,867
+Color,28,566,81,18,img9_w.jpg,439,867
+Color,179,324,71,13,img9_w.jpg,439,867
+Color,184,416,65,12,img9_w.jpg,439,867
+Color,181,462,71,13,img9_w.jpg,439,867
+Color,179,516,72,13,img9_w.jpg,439,867
+Color,180,567,73,16,img9_w.jpg,439,867
+Color,323,326,78,10,img9_w.jpg,439,867
+Color,323,419,71,4,img9_w.jpg,439,867
+Color,314,468,88,5,img9_w.jpg,439,867
+Color,313,518,88,7,img9_w.jpg,439,867
+Color,312,571,89,9,img9_w.jpg,439,867
